@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.error {
+  margin-bottom: 20px;
+  border: 2px solid red;
+  padding: 10px;
+  color: red;
+}
+.container {
+  margin-left: 10px;
+}
+.numberContainer {
+  display: flex;
+  align-items: center;
+}
+.deleteButton {
+  height: 30px;
+  margin-left: 10px;
+}
